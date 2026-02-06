@@ -112,7 +112,7 @@ Power BI → Data Modeling, DAX, Interactive Dashboard
 Show what the dashboard looks like.
 
 Example:
-![ESG & Financial Dashboard 1] (https://github.com/Samirpatra2050/ESG-Financial-performance-Analysis/blob/main/ESG%20%26%20Financial%20Performance%20Dashboard%201.png)
+!![Dashboard Preview] [ESG & Financial Dashboard 1] (https://github.com/Samirpatra2050/ESG-Financial-performance-Analysis/blob/main/ESG%20%26%20Financial%20Performance%20Dashboard%201.png)
 
 ![Dashboard Preview] 
 ESG & Financial Dashboard 2
